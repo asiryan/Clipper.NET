@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+	<AssemblyName>Clipper.NET</AssemblyName>
     <Title>Clipper.NET</Title>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Description>Clipper - an open source freeware polygon clipping library</Description>
@@ -9,9 +10,9 @@
     <Copyright>Angus Johnson 2010-2013</Copyright>
     <PackageProjectUrl>https://github.com/asiryan/Clipper.NET</PackageProjectUrl>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+	<Version>5.1.5</Version>
     <AssemblyVersion>5.1.5</AssemblyVersion>
     <FileVersion>5.1.5</FileVersion>
-	<AssemblyVersion>5.1.5</AssemblyVersion>
     <RepositoryUrl>https://github.com/asiryan/Clipper.NET</RepositoryUrl>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
 	<PackageTags>polygon union intersection clipping lines clipper difference boolean-operations exclusiveor</PackageTags>
