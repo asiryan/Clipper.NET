@@ -4,10 +4,14 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Title>Clipper.NET</Title>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Description>Clipper - an open source freeware polygon clipping library (origin at https://github.com/iNiKe/clipper)</Description>
+    <Description>Clipper - an open source freeware polygon clipping library</Description>
     <Copyright>Angus Johnson</Copyright>
     <PackageProjectUrl>https://github.com/asiryan/Clipper.NET</PackageProjectUrl>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <AssemblyVersion>5.1.5</AssemblyVersion>
+    <FileVersion>5.1.5</FileVersion>
+    <RepositoryUrl>https://github.com/asiryan/Clipper.NET</RepositoryUrl>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
