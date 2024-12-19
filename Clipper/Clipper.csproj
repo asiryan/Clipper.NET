@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Title>Clipper.NET</Title>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Description>Clipper - an open source freeware polygon clipping library (origin at https://github.com/iNiKe/clipper)</Description>
+    <Copyright>Angus Johnson</Copyright>
+    <PackageProjectUrl>https://github.com/asiryan/Clipper.NET</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
